@@ -135,7 +135,7 @@ input {
   font-size: 45px;
 }
 .cards {
-  width: 346px;
+  width: 300px;
   height: 360px;
   /* border: 1px solid red; */
 
@@ -162,7 +162,7 @@ input {
   font-size: 16px;
   line-height: 25px;
   letter-spacing: 1px;
-  margin: 20px 0;
+  margin: 15px 0;
 }
 .cards button {
   /* float: right; */
