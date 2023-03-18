@@ -114,7 +114,7 @@ input {
 .btn button {
   width: 250px;
   font-size: 30px;
-  height: 6rem;
+  height: 5rem;
   border-radius: 50px;
   background-color: rgb(243, 196, 7);
 }
@@ -127,8 +127,8 @@ input {
   /* border: 2px solid yellow; */
 }
 .out-category h1 {
-  padding-top: 70px;
-  padding-bottom: 70px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   margin-left: 45px;
 
   font-weight: 600;
@@ -142,38 +142,37 @@ input {
   padding: 15px;
 }
 .category-card {
-  width: 85%;
+  width: 88%;
   margin: auto;
 
   display: flex;
   flex-wrap: wrap;
   row-gap: 60px;
-  column-gap: 40px;
+  column-gap: 20px;
 
   justify-content: space-between;
 }
 .cards h2 {
   font-weight: 600;
 
-  font-size: 30px;
+  font-size: 25px;
 }
 .cards p {
   font-weight: 400;
-  font-size: 16px;
+  font-size: 14px;
   line-height: 25px;
   letter-spacing: 1px;
   margin: 15px 0;
 }
 .cards button {
   /* float: right; */
-
-  padding: 15px 25px;
+  padding: 13px 20px;
   background-color: rgb(243, 196, 7);
   font-size: 20px;
   border-radius: 30px;
 
   float: right;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 
 .footer {
@@ -195,8 +194,8 @@ input {
 }
 
 .company-description {
-  margin-right: 12rem;
-  flex: -1;
+  margin-right: 4rem;
+  /* flex: ; */
   width: 600px;
 }
 .company-description h1 {
@@ -204,7 +203,7 @@ input {
   margin: 10px 0;
 }
 .company-description p {
-  font-size: 17px;
+  font-size: 14px;
   letter-spacing: 1px;
   line-height: 26px;
 }
@@ -217,10 +216,10 @@ input {
   text-decoration: none;
 
   color: white;
-  font-size: 20px;
+  font-size: 15px;
   font-weight: bold;
 }
 .site-map li,
 .socials li {
-  margin-top: 12px;
+  margin-top: 10px;
 }
